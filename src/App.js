@@ -8,7 +8,7 @@ function App() {
       <div className="container">
       
         <Weather defaultCity="Stuttgart"/>
-            <footer> This project was coded by Sylwia Lis-Mila and is{""} 
+            <footer> Coded by Sylwia Lis-Mila and is{""} 
                <a href="https://github.com/SylwiaLis-Mila/react-weather-app" target="_blank"> open-sourced on GitHub </a>
                and <a href="https://determined-saha-57968b.netlify.app/">hosted on Netlify</a>
             </footer>
